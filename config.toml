@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "adrien.devismes12@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Accueil"
-logo = "images/logo.png"
+logo = "https://prodforestry-activestoragebucket2ab195a5-1obveygp78m7.s3.us-east-2.amazonaws.com/ann0rt3pezt6bicpjdoa7iqjosu8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FKDXGD6RUL7CJVQ%2F20210210%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210210T145018Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=f4d344513b447cc41999b666025f761683b2aba5b4b781683c48e4b7891710d6"
 phone = "lol"
 theme_color = "#41228e"
 [params.contact]
