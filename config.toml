@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "adrien.devismes12@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Accueil"
-logo = "Salut"
+logo = "https://pic.clubic.com/v1/images/1182568/raw.webp?&hash=74acb7f5e635558ddf7c12d0d1178fe2b6860c58"
 phone = "lol"
 theme_color = "#41228e"
 [params.contact]
