@@ -1,37 +1,36 @@
+---
 work_process:
-  enable : true
-  title : "Work Process"
+  enable: true
+  title: Work Process
   item:
-  - title : "Research and Plan"
-    icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title : "Design and Develop"
-    icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
+  - title: Research and Plan
+    icon: images/icons/plan.png
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Design and Develop
+    icon: images/icons/design.png
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Deliver
+    icon: images/icons/print.png
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
 team:
   enable: true
-  title : "My Team"
+  title: My Team
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
-
-
+  - title: Jack Schenziwe
+    image: images/team/member-1.png
+    designation: Project Manager
+  - title: Julias Carlie
+    image: images/team/member-2.png
+    designation: Web Developer
+  - title: John Doe
+    image: images/team/member-3.png
+    designation: Designer
 clients_logo_slider:
-  enable : true
-  title : "My Clients"
+  enable: true
+  title: Mes clients
+  item:
+  - logo: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoralscore.org%2Fsectors%2Ffast-food%2F&psig=AOvVaw3sjQ7-gvUuP5BVkuwXtDg9&ust=1613056079912000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPikq6jM3-4CFQAAAAAdAAAAABAN
+    URL: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoralscore.org%2Fsectors%2Ffast-food%2F&psig=AOvVaw3sjQ7-gvUuP5BVkuwXtDg9&ust=1613056079912000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPikq6jM3-4CFQAAAAAdAAAAABAN
