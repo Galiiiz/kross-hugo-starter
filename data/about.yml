@@ -32,5 +32,7 @@ clients_logo_slider:
   enable: true
   title: Mes clients
   item:
+  - logo: https://www.toute-la-franchise.com/images/zoom/news/grd/455882.jpg
+    URL: https://www.toute-la-franchise.com/images/zoom/news/grd/455882.jpg
   - logo: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoralscore.org%2Fsectors%2Ffast-food%2F&psig=AOvVaw3sjQ7-gvUuP5BVkuwXtDg9&ust=1613056079912000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPikq6jM3-4CFQAAAAAdAAAAABAN
     URL: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoralscore.org%2Fsectors%2Ffast-food%2F&psig=AOvVaw3sjQ7-gvUuP5BVkuwXtDg9&ust=1613056079912000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPikq6jM3-4CFQAAAAAdAAAAABAN
